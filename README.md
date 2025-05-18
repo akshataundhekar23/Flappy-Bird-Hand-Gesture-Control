@@ -1,4 +1,5 @@
 🕹️ Project Overview
+
 This project reimagines the traditional Flappy Bird gameplay by integrating hand gesture recognition. Players can control the bird's flapping motion by raising their index finger above their palm, offering a touchless and intuitive gaming experience. Alternatively, traditional keyboard controls are also supported.
 GitHub
 GitHub
